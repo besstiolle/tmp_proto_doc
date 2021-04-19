@@ -1,4 +1,5 @@
 ifdef::env-github[]
+:imagesdir: ./medias
 :tip-caption: :bulb:
 :note-caption: :information_source:
 :important-caption: :heavy_exclamation_mark:
@@ -8,13 +9,61 @@ endif::[]
 
 :toc:
 :toc-placement!:
-toc::[]
+# toc::[]
+
+# Voir le diff 
+
+:curentversion = v2
+:previousversion = v1
+
+https://github.com/besstiolle/tmp_proto_doc/compare/v1...octocat:v2#files_bucket
 
 # Formation à distance
 
 Comment organiser un Webinar, une session Zoom, Strigo, Teams
 
 Tout est ici et on vous encourage à commenter le document : https://docs.google.com/document/d/1_SPR-AJ29XjLxrs8P9zUMAf9-Y8NVcJhDQPILvbn-R8/edit#heading=h.3g498upa1slg[Comment organiser une formation à distance]
+
+
+## Mega CheatSheet 
+
+### Gestion du Webinar avant la formation
+
+Avant le webinar
+* [ ] Vérifiez que vous puissiez vous même vous connecter à votre session
+
+Pendant le webinar
+* [ ] Faites vérifier son, micro, caméra 
+* [ ] Faites vérifier les sous salles (meet) et autres fonctionnalités que vous souhaitez utiliser
+* [ ] Valider les horaires de formation (contraintes etc)
+
+Après le webinar
+* [ ] Leur envoyer un mail pour les inviter à la formation
+
+Plus d'astuces sur le webinar link:#[ici]
+
+### Gestion des Absences en début de session
+
+* [ ] Patientez 30'
+* [ ] Ping si possible (mail)
+* [ ] Mail à backoffice-training@zenika.com pour pointer les stagiaires non présents
+
+
+### Emargement numérique pendant la formation
+
+* [ ] SYSTEMATIQUE ! (non sérieux link:https://edusign.app/professor/[c'est ici]) 
+* [ ] Accès ko ? session pas là ? email stagiaire ko ? problème d'irritation du fessier ? contact direct backoffice-training@zenika.com 
+
+Plus d'astuces sur l'émargement link:#[ici]
+
+### Evals stagiaires + formateurs en fin formation
+
+* [ ] SYSTEMATIQUE ! (ouais pareil, link:https://zeval.zenika.com/[c'est ici])
+* [ ] le code se génére/récupére dans votre session de formation dans link:https://platon.zenika.com/[Platon]
+
+image::platon_idZeval.png[]
+
+
 
 ## Zenika Singapore version
 
