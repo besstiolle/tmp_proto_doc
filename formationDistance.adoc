@@ -1,0 +1,44 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+:toc:
+:toc-placement!:
+toc::[]
+
+# Formation à distance
+
+Comment organiser un Webinar, une session Zoom, Strigo, Teams
+
+Tout est ici et on vous encourage à commenter le document : https://docs.google.com/document/d/1_SPR-AJ29XjLxrs8P9zUMAf9-Y8NVcJhDQPILvbn-R8/edit#heading=h.3g498upa1slg[Comment organiser une formation à distance]
+
+## Zenika Singapore version
+
+ - Zenika Singapore link:#[Remote Trainer Checklist]
+ - Zenika Singapore link:#[Strigo Trainer Cheatsheet]
+
+## Cas spécifique pour le client Orange
+
+Le client Orange nous demande de leur remonter les emails de leurs collaborateurs qui ont des problèmes lors des Webinar et/ou Formation. Donc merci de remonter à training@zenika.com les problèmes rencontrés et les emails des collaborateurs Orange.
+
+⚠️ Orange utilise en interne un outil appelé Coop'Net qui permet de faire de la visio
+
+Ils nous autorisent et recommandent même lorsque c’est possible de demander à un stagiaire Orange de lancer une session sur laquelle il vous donne les droits nécessaires pour animer correctement. Ceci pourrait vous permettre de vous en sortir lorsque rien (Zoom, Meet, Teams, …) ne fonctionne plus avec eux.
+
+Laurent Delvaux par exemple l’a déjà utilisé plusieurs fois ainsi que d’autres formateurs.
+
+Il s’agit globalement d’INTRA bien sûr lorsque vous n’avez que des stagiaires Orange.
+
+Webinar de préparation avec les stagiaires
+
+Dans tous les cas, une formation à distance doit être précédée d’un webinar de présentation qui sera planifié par Training (c’est le commercial du compte client ou Backoffice qui organise le Webinar et vous y invite avec vos stagiaires).
+
+Le webinar est généralement planifié pour avoir lieu quelques jours avant le début de la formation.
+
+Si ce n’est pas le cas 1 semaine avant le début de la formation environ, contactez vite Training pour qu’il l’organise.
+
+⚠️ Formateurs : Mettez impérativement vos agenda Google à jour (congés, clients, formation, dispo …)

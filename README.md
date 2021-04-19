@@ -1,1 +1,500 @@
-tmp_proto_doc
+Mes checklists formateur
+
+ - [Formation à distance](formationDistance.adoc)
+ - [Zenika Singapore version](#)	
+ - [Checklist synthétique](#)
+ - [Quelques semaines avant ma formation](#)
+ - [Quelques jours avant ma formation](#)
+ - [Premier jour de ma formation](#)
+ - [Deuxième jour de ma formation](#)
+ - [Dernier jour de ma formation](#)
+ - [Le lendemain de ma formation](#)
+ - [Comment devenir formateur Zenika ?](#)
+ - [Comment est valorisé l’investissement formation ?](#)
+ - [Comment lancer une nouvelle formation ?](#)
+ - [Comment rédiger des supports de cours ?](#)
+ - [Comment remplir son CRA ?](#)
+ - [Comment remplir l’émargement numérique ?](#)
+ - [Comment remplir les évaluations en ligne ?](#)
+ - [Glossaire](#)
+ - [Annexes](#)
+
+
+---
+
+
+
+Checklist synthétique
+
+Reprend les points les plus importants et obligations administratives
+Quelques semaines avant ma formation
+INTRA : Qualif tél
+Relire mon cours, préparer l'environnement des TP et les jouer
+Vérifier avec Training que votre voyage (transport, hôtel, …) est bien planifié
+Quelques jours avant ma formation
+Chargeurs, connecteur vidéo proj, zapette, feutres, clef USB…
+INTRA : nom du contact client et son téléphone
+Premier jour de ma formation
+Se présenter et présenter Zenika
+Faire un tour de table (attente, objectifs de la formation)
+Émargement (signature par demi-journée)
+Prévenir backoffice-training@zenika.com si stagiaire absent/en plus (max < 11h)
+Vous ne payez JAMAIS les repas des stagiaires (INTER ou INTRA)
+Deuxième jour de ma formation
+Repasse synthétique sur ce qui a été vu la veille (jeux, quizz…)
+Présenter le reste à faire - programme de la journée en découpage horaire
+Émargement (signature par demi-journée)
+Dernier jour de ma formation
+Évaluations
+Émargements (signature par demi-journée)
+Répondre aux questions (Atelier post-its et/ou Parking à questions)
+Remettre le cours et les correctifs
+Remettre en ordre la salle en fermant les fenêtres, éteindre la clim, éteindre les lumières, jeter les papiers/post-its... - lire les affichages à ce propos
+INTER : Réinitialiser les postes en réinstallant les masters des PC
+Le lendemain de ma formation
+Envoyer les documents administratifs à backoffice-training@zenika.com
+Émargement (si format papier seulement)
+Justificatifs de frais (taxi, repas…)
+Les fiches d’évaluation (si format papier)
+Si j’ai une évaluation <= 3, mail au Responsable Pédagogique Formation
+
+Quelques semaines avant ma formation
+LOGISTIQUE DE FORMATION
+Assurez vous que votre voyage (Hôtel, train…) est bien planifié idéalement 2 semaines avant avec Training
+
+BONNE PRATIQUE PÉDAGOGIQUE
+Pour les INTRA, faire une qualification téléphonique de 15 mn avec le client
+S’assurer des pré-requis logistiques et pédagogiques des stagiaires
+Relire mon cours (slides…) et jouer les TP
+Préparer l'environnement des TP (AWS, ...) et les jouer
+Vérifier la version du framework/librairie/…
+Faire un état des lieux synthétique des problèmes potentiels et/ou besoins d'amélioration de la formation et en informer le Responsable Pédagogique Formation
+Échanger avec l’un des récents formateurs qui l’a animé (surtout pour une première)
+Je consulte le groupe workplace sur l’Ingénierie pédagogique
+
+Mot de la DSI (Hugo Wood) sur les mails en provenance de Platon
+Lorsqu’une session qui vous est affectée est modifiée, Platon se synchronise avec votre agenda Google ⚠️ Cela peut être déroutant et si vous recevez un mail d’annulation que vous ne comprenez pas, vérifiez que vous n’avez pas d’autres mails de création de cette session ou vérifiez dans votre agenda avant d’appeler le service formation. 
+De même inutile de “refuser” l’invitation depuis l’agenda car personne ne le verra, il faut envoyer un mail ou appeler le service Training dans ce cas “exceptionnel”.
+
+
+
+Conseils pratiques
+Je lis le mail intitulé “Platon - Formations à venir” du lundi matin et me
+positionne sur les formations en envoyant un mail à training@zenika.com
+Je préviens mon client et responsable Zenika de mon absence (formation)
+Je me connecte à https://platon.zenika.com/ 
+pour voir les détails de ma session et de mes stagiaires
+Si je travail sur des supports de formation j’utilise les bon codes Alibeez :
+https://zenika.faq.team/q/quel-code-utiliser-dans-alibeez-cjfu23x3zp5y60112wgnlry1f
+
+Quelques jours avant ma formation
+
+LOGISTIQUE DE FORMATION
+backoffice-training@zenika.com vous envoie ~3 jours avant les documents concernant votre voyage (Hôtel, train, liste des stagiaires…)
+Je prépare mes chargeurs, connecteur vidéo proj, zapette, feutres, clef USB...
+
+BONNE PRATIQUE PÉDAGOGIQUE
+Faire une dernière passe sur la formation (travailler mes articulations de chapitre)
+Faire de la veille sur ce qui est présenté / Trouver une news intéressante à partager pour le premier déjeuner :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conseils pratiques
+Pour les INTRA, avoir le nom du contact client et son téléphone
+S'assurer du lieu exact de la salle de formation
+Zenika peut vous mettre à disposition des comptes AWS et Google Cloud sur lesquelles on peut installer des outils pour vos TP formations - Contacter le @Dreamlab
+Procédure de mises à jour des supports de formation suite aux évolution du framework
+
+Premier jour de ma formation
+OBLIGATION ADMINISTRATIVE (POUR FACTURATION)
+Émargement (en début de session)
+Prévenir backoffice-training@zenika.com s’il y a un changement de stagiaire (suppl./absent maximum avant 11h)
+Backoffice vous renverra par mail les documents à jour
+LOGISTIQUE DE FORMATION
+Matin
+j’arrive 30 mn en avance (donc vers 9h00) et j’installe ma salle
+Connecter son ordinateur au vidéoproj et vérifier que ça marche
+Passer en mode silencieux (PC + Tél)
+À la pause : S'assurer de la réservation du restaurant du midi
+Vérifier que l’on a bien accès à Internet
+Vérifier que les documents administratifs sont sur ma table
+Feuille d'émargement papier
+Attestation de présence 
+Attestations de fin de formation (seul document à remettre aux stagiaires)
+Les fiches d’évaluation format papier de la formation (si pas accès Internet)
+Les stagiaires ne doivent pas rester seuls dans nos locaux
+BONNE PRATIQUE PÉDAGOGIQUE
+Matin
+Inscrire son email @zenika au tableau avant l’arrivée des participants
+Accueillir les stagiaires pour le petit déjeuner et leur souhaiter la bienvenue
+Se présenter puis présenter Zenika
+Atelier “Post-it” des attentes de chacun
+Tour de table
+Présenter la formation - rappel titre, pré-requis, objectifs
+Rappel des horaires, des pauses et des repas
+Soir
+Rappeler les horaires du lendemain
+
+Conseils pratiques
+Horaire de chaque jour de formation : 9h30-17h30 (1h pour déjeuner)
+Vous êtes responsable de fournir les supports de formation
+Penser à s’hydrater (avoir une bouteille ou un verre d’eau à proximité)
+Une formation est vraiment épuisante donc restez frais et dispo ;-) + pauses
+On ne paie jamais de sa poche les repas pour les stagiaires
+
+Deuxième jour de ma formation
+
+OBLIGATION ADMINISTRATIVE (POUR FACTURATION)
+Émargement (en début de session)
+Toujours prévenir training@zenika.com si stagiaire absent (maximum avant 11h)
+
+LOGISTIQUE DE FORMATION
+Passer en mode silencieux (PC + tél)
+À la pause : S'assurer de la réservation du restaurant du midi
+
+BONNE PRATIQUE PÉDAGOGIQUE
+Matin
+Repasse synthétique sur ce qui a été vu la veille (jeux, quizz…)
+Exemples : https://kahoot.com/, ...
+Rappel des objectifs globaux de la formation
+Présenter le reste à faire - programme de la journée en découpage horaire
+Soir
+Rappeler les horaires du lendemain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conseils pratiques
+Penser à s’hydrater (avoir une bouteille ou un verre d’eau à proximité)
+
+
+
+Dernier jour de ma formation
+
+OBLIGATION ADMINISTRATIVE
+Pause de l’après-midi : Faire remplir les évaluations en ligne par les stagiaires et vérifier que tous les stagiaires ont bien terminé leur évaluation
+Émargement (stagiaires ET formateur)
+Signer l’attestation de présence et vérifier la liste des stagiaires
+Remettre les attestations de fin de formation (seul document que l’on remet aux stagiaires)
+
+LOGISTIQUE DE FORMATION 
+Matin
+Passer en mode silencieux (PC + tél)
+À la pause : S'assurer de la résa du resto du midi
+Soir
+Remettre le cours (PDF…) et les corrections des TP
+Remettre en ordre la salle en fermant les fenêtres, éteindre la clim, éteindre les lumières, jeter les papiers/post-its... - lire les affichages à ce propos
+INTER : Réinitialiser les postes en réinstallant les masters des PC
+
+BONNE PRATIQUE PÉDAGOGIQUE
+Matin
+Repasse synthétique sur ce qui a été vu la veille (jeux, quizz…)
+Rappel des objectifs globaux de la formation
+Présenter le reste à faire - programme de la journée en découpage horaire
+Soir
+Répondre aux questions (Parking à questions / frigo - atelier post-its avec les attentes)
+
+
+Conseils pratiques
+Penser à s’hydrater (avoir une bouteille ou un verre d’eau à proximité)
+
+Le lendemain de ma formation
+
+OBLIGATION ADMINISTRATIVE (POUR FACTURATION)
+Envoyer les documents administratifs à backoffice-training@zenika.com
+Justificatifs de frais (taxi, repas…)
+Émargement (si format papier seulement mais ne doit plus être le cas)
+Les fiches d’évaluation (si format papier mais ne doit pas être le cas)
+Attestation de présence (si émargement papier mais ne doit plus être le cas)
+Remplir Alibeez avec les bon code : https://zenika.faq.team/q/quel-code-utiliser-dans-alibeez-cjfu23x3zp5y60112wgnlry1f
+
+LOGISTIQUE DE FORMATION
+Remplir mes NDF dans Alibeez
+
+BONNE PRATIQUE PÉDAGOGIQUE
+Si j’ai une évaluation <= 3, mail au Responsable Pédagogique Formation
+Faire un état des lieux synthétique des besoins d'amélioration de la formation et en informer le RPF (Responsable Pédagogique Formation) de l’état de la formation
+Renseigner les notes de session (répertoire SessionsNotes du github de la formation)
+Rapporter les questions difficiles que j’ai eues
+Faire une mise à jour du timing
+
+
+
+
+
+
+
+
+
+Conseils pratiques
+Il est possible de prendre en photo (bonne qualité) les documents administratifs pour les envoyer par mail à backoffice-training@zenika.com 
+
+
+
+
+Comment devenir formateur Zenika ?
+
+OBLIGATION CONTRACTUELLE
+Suivre le processus du partenaire (comme passer une certif pour certaines formations comme Spring Core par exemple)
+
+PERFECTIONNEMENT PÉDAGOGIQUE
+Contacter le Responsable Pédagogique Formation
+Suivre la formation que l’on souhaite animer (optionnel car cela dépend des compétences)
+Suivre une TTT avec pour objectif d’animer dans les 2 ou 3 mois
+Contacter les formateurs référents sur les formations qui m’intéressent d’animer
+Échanger avec un formateur pilier
+S’inscrire à des Dojo de formateurs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conseils pratiques
+Je lis le mail de Platon du lundi avec les formations à venir pour identifier les besoins clients et les formations sur lesquelles j’aimerais me positionner
+Je complète mon profil de compétence formateur Platon https://platon.zenika.com/#/trainers avec les formations que j’aimerais animer
+
+Comment est valorisé l’investissement formation ?
+Un consultant qui rédige un support de cours est affecté sur du temps JAZ (in fine une journée non facturée).
+
+Le code Alibeez sera alors INT_INVEST_PREPA_RED "Investissements sur préparation / Rédaction plan ou supports de cours" pour une mise à jour, création de supports de formation non refacturé au client. S’il s’agissait d’une préparation refacturé au client, il faudrait utiliser le code INT_SUP_FORM_CLIENT.
+Côté Alibeez, chaque mise à jour de formation ou chaque rédaction d'un nouveau support fait l'objet d'une création de tâche spécifique avec une attribution au cas par cas.
+
+Les sujets de création et/ou mises à jour de formations sont traités au cas par cas et nous sommes une seule entreprise (en France) et préférons raisonner par valeur (création de valeur).
+
+⚠️ Dans tous les cas, il faut :
+Prévenir le responsable pédagogique (Olivier Huber)
+Prévenir son manager
+Renseigner les jours passés et/ou prévu dans le fichier de suivi des chantiers : https://docs.google.com/spreadsheets/d/14JQjc-tI9GwjlAb07eRRAqlONbYj4q5KcsWzIUycnV0/
+
+
+
+
+
+Comment lancer une nouvelle formation ?
+
+Depuis le 27 juin 2019, il a été décidé (en Copil) que nous pouvons afficher sur https://training.zenika.com les nouveaux plans qui seront proposés sans que le support de cours soit prêt
+
+Une indication “Bientôt dans nos salles” ou “Nouveauté” sera précisé sur le plan en ligne
+
+Ces plans ne feront pas l’objet de démarrage de chantier tant qu’une affaire n’est pas signée ou en phase de l’être (Ceci afin d’éviter les dé-staffings)
+
+Il y aura un arbitrage (Olivier Huber / Catherine Carron) si on peut développer la formation selon la date demandée par le client
+
+Il peut y avoir un délai plus ou moins important dépendant des dispos pour développer le support de cours (en moyenne 15 jours de dev pour une session de 3 jours)
+
+PROCESS AJOUT FORMATION AU CATALOGUE
+Le consultant peut pousser une communication pour présenter son idée de nouvelle formation afin de co-construire un plan avec la communauté
+Le consultant peut prendre une demi-journée (maximum) en accord avec son manager pour produire un plan (template)
+Adresser le plan à Olivier Huber copie Catherine Carron
+Préciser à Olivier une estimation du temps de préparation des supports de cours
+Olivier partage (selon la thématique) le plan avec la @DT pour avis
+Olivier le met en ligne sur https://training.zenika.com avec label “Nouveauté”
+Catherine communique ensuite les infos au commerce
+Le commercial qui lève un lead sur le plan concerné devra adresser un mail à Olivier et Catherine dés qu’un client manifeste un intérêt pour la formation
+
+Après plusieurs demandes suite à la mise en ligne, cela permettra de se préparer et envisager le chantier. Si par contre une seule demande après 1 trimestre, il faudra arbitrer si c’est rentable de développer la formation pour un seul projet
+Comment rédiger des supports de cours ?
+
+Les formations (technique) utilisent un framework maison utilisant reveal.js hébergé sur Github
+La langue officiel des Slides et TP est l'anglais
+Faire des slides léger (3 lignes max)
+Remplir au maximum les notes de slides avec l'intention du slide et ce qu'il faut dire à l'oral etc
+Faire des chapitres (slides) léger ~10 mn intercalé de TP aussi plus léger (donc bcp plus de séquences slides/tp)
+TP en fil rouge avec la création d'une application qui se construit petit à petit
+TP avec des bout de commentaires de code pour faciliter ceux qui n'ont pas le niveaux et qu'ils s'y retrouvent (on peut leur fournir les corrections à ceux la)
+TP supplémentaire (sans forcément créer les solutions) pour ceux qui vont plus vite
+
+
+
+Comment remplir son CRA ?
+
+Message de Emilie Crinon (Administration Des Ventes) du 7 janvier 2020
+Concernant le remplissage des CRA pour les formateurs, futurs formateurs... 
+En effet jusque-là, vous utilisiez les codes génériques FORM_INTER, FORM_INTRA_CLIEN et FORM_INTRA_ZNK. Ces codes sont désormais clôturés suite à une évolution d'Alibeez et Platon (merci beaucoup @Dream Lab au passage !).
+Désormais vous aurez en tant que formateur le code session qui commence par "F" directement dans votre CRA suite à une action effectuée par back office formation. La ligne dédiée à ce code session ne sera pas remplie automatiquement mais ne sera disponible que sur les dates exactes de la formation.
+Voici un exemple ci-dessous :
+
+
+Vos notes de frais liées à vos formations délivrées seront donc à rattacher à ce code également (si vous ne le trouvez pas dans la liste des projets, il faut juste décocher le "en cours" en haut de la liste pour que tous vos projets, actifs ou passés, s'affichent)
+
+Cette évolution permettra entre autres :
+De limiter les oublis/erreurs des formations dans les CRA (ce qui n'empêchera pas malgré tout une passe de contrôle avant d'envoyer votre CRA en fin de mois)
+D'avoir et la production et la facturation au même endroit (Alibeez) et non une partie dans Platon et une autre dans Alibeez, ce qui va faciliter le travail de l'équipe finance
+De rattacher vos notes de frais de formation au code projet client et non au code générique, grande simplification également pour l'équipe finance.
+Les codes de formation seront rajoutés au fur et à mesure du mois en cours (si votre formation a lieu le 27 du mois, vous ne l'aurez pas forcément le 1er du mois ^^). Si toutefois arrivés vers le 20-25 du mois, vous n'avez toujours pas le code de formation dans votre CRA, il faudra nous contacter via le bouton "signaler un problème" au-dessus de votre CRA pour que nous puissions avec l'équipe du back office formation faire le nécessaire.
+
+Nous restons à votre disposition pour tout renseignement complémentaire suite à cette évolution dans Alibeez.
+
+S'il vous manque un code formation dans votre CRA, envoyez un mail à backoffice-training@zenika.com avec adv@zenika.com pour qu'elles puissent faire la première action et qu' ADV fasse la seconde action afin que la session apparaisse dans votre CRA
+Comment remplir l’émargement numérique ?
+
+La solution d’émargement numérique est “EduSign”
+⚠️ L’ancienne solution SoWeSign/JeSuisEnCours était utilisée jusqu’au 5 fév 2021
+
+⚠️ Certains clients, surtout en INTRA, font aussi signer leur collaborateurs (des fois également avec SoWeSign) ce qui peut prêter à confusion car tout le monde reçoit 2 demandes de signatures (1 de notre part et 1 par leur boîte). Ce qui nous importe pour facturer, c’est qu’ils signent la notre donc insister bien qu’ils signent tout de même la nôtre ! Merci 🥺
+Chaque formateur a reçu un mail d’EduSign (user/pass) 
+Merci de contacter backoffice-training@zenika.com si ce n’est toujours pas le cas 1 semaine avant votre session afin qu’elles synchronisent votre session depuis Platon.
+Ce qui génèrera dans EduSign la création de votre compte et donc envoie des identifiants ;)
+Vous accédez simplement à la webapp Edusign
+Vous renseignez votre email et le mot de passe que vous avez reçu.
+⚠️ Nous n’utilisons pas la fonctionnalité SSO d’Edusign (oui, ce serait bien, en effet)
+
+Vous devez alors voir vos sessions de formation
+⚠️ Si ce n’est pas le cas, merci de prévenir backoffice-training@zenika.com 
+
+Vous cliquez sur la session et vous signez pour vous-même
+
+Vous voyez alors la liste de vos stagiaires
+
+Vous sélectionnez les stagiaires présents pour leur envoyer une demande de signature par mail en cliquant sur le bouton ;) 💡Laissez leur 2mn qu’ils aient tous bien signé !
+
+⚠️ S’il manque un stagiaire ou si un email d’un stagiaire est faux, s’il y a un stagiaire en plus, etc. Dans tous les cas il faut OBLIGATOIREMENT en informer backoffice-training@zenika.com IMMÉDIATEMENT. Merci !  Comme en présentiel en fait ;-)
+
+
+Et si jamais les stagiaires ne reçoivent pas leur mail (pb de SPAM ou autre), vous avez la possibilité de leur envoyer un code
+💡 Demandez quand même à vos stagiaires s’il les emails ne sont pas dans leur SPAM !
+
+En cliquant sur “Code” (et non “QR Code”) vous pouvez leur communiquer l’URL et le code correspondant mais ⚠️ Attention car ce n’est pas sécurisé (un stagiaire peut alors prétendre en être un autre - c’est basé sur la confiance dans ce cas)
+
+
+
+Et pour info, voici le type de mail que reçoit vos stagiaires
+
+Et la page sur laquelle un stagiaire arrive pour signer
+
+
+Comment remplir les évaluations en ligne ?
+
+Les évaluations en ligne utilisent la webapp https://zeval.zenika.com/
+Faire remplir par chaque stagiaire (réserver 10 mn) 
+IMPÉRATIVEMENT l’après-midi du dernier jour de formation 
+
+
+
+Où trouver le numéro de session (ID ZEVAL) ?
+Vous le générez/récupérer dans votre session de formation dans Platon (onglet description)
+et vous le fournissez à vos stagiaires avec l’URL de l’application https://zeval.zenika.com/
+
+⚠️ Vous devez remplir les zEvals également en tant que formateur, et pour ce faire, vous ajouter “trainer” à la suite du numéro de session exemple : “4cbc2daetrainer”
+
+💡 Retrouver votre session dans https://platon.zenika.com/#/sessions/list
+
+ 
+
+Exemple d’une “Fiche d'évaluation” au format papier
+À n’utiliser que si les stagiaires n’ont pas accès aux évaluations en ligne https://zeval.zenika.com/
+
+
+Glossaire
+
+backoffice-training@zenika.com
+Ce sont Laure et Dorothée à Paris qui s’occupent de tout le backoffice formation et elles sont adorables ;-)
+Responsable Pédagogique Formation (RPF)
+C’est le rôle d’Olivier HUBER qui a en charge les cours, les formateurs et le staffing
+INTRA (Intra-entreprise)
+Un cours qui sera animé pour un client en particulier et le plus souvent dans ses locaux
+INTER (Inter-entreprise)
+Un cours qui est animé dans nos locaux avec plusieurs stagiaires qui sont de sociétés différentes
+Qualification téléphonique
+Un appel téléphonique entre le formateur et un responsable chez le client pour définir les pré-requis logistiques et pédagogiques lors d’une formation Intra
+Émargement
+Le document le plus important contenant les signatures par demi-journée de chaque stagiaire et du formateur qui permet de déclencher la facturation
+Attestation de présence
+Feuille équivalente à la feuille d’émargement mais par société et les stagiaires n’ont pas à la signer
+À signer par le formateur seulement
+Attestation de fin de formation
+
+
+Permet au stagiaire de justifier sa présence à la formation (pour des organismes financeurs par exemple)
+À remettre à chaque stagiaire individuellement
+Train the Trainer (TTT)
+Formation de Formateur
+Il s’agit d’une Formation de formateurs de 2j animée par le RPF. On y découvre les éléments administratifs d’une formation mais aussi le savoir-être et l’état d’esprit que l’on attend du formateur Zenika.
+Les 2 après-midi sont consacrées à des Kata (exercices en situation réelle) d’animation de formation devant ses collègues stagiaires et on cherche à s’améliorer à chaque passage
+Voir aussi : FAQ Zenika
+Formateur pilier
+C’est un formateur qui va consacrer ~70% de son temps à donner des formations et le reste en mission courte d’audit par exemple
+Dojo formateurs
+Il s’agit d’une après-midi où 3 / 4 formateurs se retrouvent pour faire des Kata d’animation de formation afin de s'entraîner pour progresser ensemble avec l’aide d’un formateur expérimenté
+
+Annexes
+Procédure de réinitialisation des postes des stagiaires (INTER)
+Pour les agences Zenika de :
+Paris
+Nantes	
+Lille
+Rennes	?
+Lyon		?
+Bordeaux	?
+
+On va également installer les paquets exfat-fuse et exfat-utils sur les machines de formation pour avoir l’interopérabilité entre mac-os, linux et windows.
+
+Alors il semblerait que chaque agence converge (enfin) vers une solution commune.
+
+Dans quelques temps on pourrait mettre en commun nos méthodes et avoir une procédure équivalente dans chaque agence sachant que l’on commence à avoir les même machine qui plus est.
+
+
+
+Exemple d’une “Feuille d'émargement” en version papier
+Document ne devant plus être utilisé ! 
+Voir comment remplir les émargements numérique
+
+À signer et remettre dès la fin de la formation à backoffice-training@zenika.com
+
+
+Exemple d’une “Attestation de présence”
+À signer et remettre dès la fin de la formation à backoffice-training@zenika.com
+
+
+
+Exemple d’une “Attestation de fin de formation”
+Il est envoyé par backoffice-training@zenika.com au format électronique
+
+
+
+Ressources
+Qu'est-ce que la Formation de Formateur ou TTT (Train the Trainer) ?
+
+Lieu de communication et d’échange autour des sujets formations (Workplace).
+
+Lieu de communication et d’échange autour de l’Ingénierie pédagogique (Workplace)
+
+
