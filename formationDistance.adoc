@@ -9,7 +9,7 @@ endif::[]
 
 :toc:
 :toc-placement!:
-# toc::[]
+toc::[]
 
 # Voir le diff 
 
@@ -29,15 +29,18 @@ Tout est ici et on vous encourage à commenter le document : https://docs.google
 
 ### Gestion du Webinar avant la formation
 
-Avant le webinar
+#### Avant le webinar
+
 * [ ] Vérifiez que vous puissiez vous même vous connecter à votre session
 
-Pendant le webinar
+#### Pendant le webinar
+
 * [ ] Faites vérifier son, micro, caméra 
 * [ ] Faites vérifier les sous salles (meet) et autres fonctionnalités que vous souhaitez utiliser
 * [ ] Valider les horaires de formation (contraintes etc)
 
-Après le webinar
+#### Après le webinar
+
 * [ ] Leur envoyer un mail pour les inviter à la formation
 
 Plus d'astuces sur le webinar link:#[ici]
