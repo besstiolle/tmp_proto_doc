@@ -16,7 +16,7 @@ toc::[]
 :curentversion: v2
 :previousversion: v1
 
-https://github.com/besstiolle/tmp_proto_doc/compare/{curentversion}...besstiolle:{previousversion}#files_bucket
+https://github.com/besstiolle/tmp_proto_doc/compare/{previousversion}...{curentversion}
 
 # Formation à distance
 
