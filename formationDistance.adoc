@@ -13,10 +13,10 @@ toc::[]
 
 # Voir le diff 
 
-:curentversion = v2
-:previousversion = v1
+:curentversion: v2
+:previousversion: v1
 
-https://github.com/besstiolle/tmp_proto_doc/compare/v1...octocat:v2#files_bucket
+https://github.com/besstiolle/tmp_proto_doc/compare/{curentversion}...besstiolle:{previousversion}#files_bucket
 
 # Formation à distance
 
