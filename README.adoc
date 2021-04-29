@@ -1,4 +1,18 @@
-Mes checklists formateur
+ifdef::env-github[]
+:imagesdir: ./medias
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+:toc:
+:toc-placement!:
+toc::[]
+
+
+# Mes checklists formateur
 
  - [Formation à distance](formationDistance.adoc)
  - [Zenika Singapore version](#)	
@@ -24,39 +38,45 @@ Mes checklists formateur
 
 
 
-Checklist synthétique
+# Checklist synthétique
 
-Reprend les points les plus importants et obligations administratives
-Quelques semaines avant ma formation
-INTRA : Qualif tél
-Relire mon cours, préparer l'environnement des TP et les jouer
-Vérifier avec Training que votre voyage (transport, hôtel, …) est bien planifié
-Quelques jours avant ma formation
-Chargeurs, connecteur vidéo proj, zapette, feutres, clef USB…
-INTRA : nom du contact client et son téléphone
-Premier jour de ma formation
-Se présenter et présenter Zenika
-Faire un tour de table (attente, objectifs de la formation)
-Émargement (signature par demi-journée)
-Prévenir backoffice-training@zenika.com si stagiaire absent/en plus (max < 11h)
-Vous ne payez JAMAIS les repas des stagiaires (INTER ou INTRA)
-Deuxième jour de ma formation
-Repasse synthétique sur ce qui a été vu la veille (jeux, quizz…)
-Présenter le reste à faire - programme de la journée en découpage horaire
-Émargement (signature par demi-journée)
-Dernier jour de ma formation
-Évaluations
-Émargements (signature par demi-journée)
-Répondre aux questions (Atelier post-its et/ou Parking à questions)
-Remettre le cours et les correctifs
-Remettre en ordre la salle en fermant les fenêtres, éteindre la clim, éteindre les lumières, jeter les papiers/post-its... - lire les affichages à ce propos
-INTER : Réinitialiser les postes en réinstallant les masters des PC
-Le lendemain de ma formation
-Envoyer les documents administratifs à backoffice-training@zenika.com
-Émargement (si format papier seulement)
-Justificatifs de frais (taxi, repas…)
-Les fiches d’évaluation (si format papier)
-Si j’ai une évaluation <= 3, mail au Responsable Pédagogique Formation
+## Reprend les points les plus importants et obligations administratives
+
+### Quelques semaines avant ma formation
+- [ ] INTRA : Qualif tél
+- [ ] Relire mon cours, préparer l'environnement des TP et les jouer
+- [ ] Vérifier avec Training que votre voyage (transport, hôtel, …) est bien planifié
+
+### Quelques jours avant ma formation
+- [ ] Chargeurs, connecteur vidéo proj, zapette, feutres, clef USB…
+- [ ] INTRA : nom du contact client et son téléphone
+
+### Premier jour de ma formation
+- [ ] Se présenter et présenter Zenika
+- [ ] Faire un tour de table (attente, objectifs de la formation)
+- [ ] Émargement (signature par demi-journée)
+- [ ] Prévenir backoffice-training@zenika.com si stagiaire absent/en plus (max < 11h)
+- [ ] Vous ne payez JAMAIS les repas des stagiaires (INTER ou INTRA)
+
+### Deuxième jour de ma formation
+- [ ] Repasse synthétique sur ce qui a été vu la veille (jeux, quizz…)
+- [ ] Présenter le reste à faire - programme de la journée en découpage horaire
+- [ ] Émargement (signature par demi-journée)
+
+### Dernier jour de ma formation
+- [ ] Évaluations
+- [ ] Émargements (signature par demi-journée)
+- [ ] Répondre aux questions (Atelier post-its et/ou Parking à questions)
+- [ ] Remettre le cours et les correctifs
+- [ ] Remettre en ordre la salle en fermant les fenêtres, éteindre la clim, éteindre - - [ ] les lumières, jeter les papiers/post-its... - lire les affichages à ce propos
+- [ ] INTER : Réinitialiser les postes en réinstallant les masters des PC
+
+### Le lendemain de ma formation
+- [ ] Envoyer les documents administratifs à backoffice-training@zenika.com
+- [ ] Émargement (si format papier seulement)
+- [ ] Justificatifs de frais (taxi, repas…)
+- [ ] Les fiches d’évaluation (si format papier)
+- [ ] Si j’ai une évaluation <= 3, mail au Responsable Pédagogique Formation
 
 Quelques semaines avant ma formation
 LOGISTIQUE DE FORMATION
