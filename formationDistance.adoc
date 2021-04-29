@@ -49,20 +49,20 @@ Plus d'astuces sur le webinar link:#[ici]
 
 * [ ] Patientez 30'
 * [ ] Ping si possible (mail)
-* [ ] Mail à backoffice-training@zenika.com pour pointer les stagiaires non présents
+* [ ] Mail à xxx-xxx@xxx.com pour pointer les stagiaires non présents
 
 
 ### Emargement numérique pendant la formation
 
 * [ ] SYSTEMATIQUE ! (non sérieux link:https://edusign.app/professor/[c'est ici]) 
-* [ ] Accès ko ? session pas là ? email stagiaire ko ? problème d'irritation du fessier ? contact direct backoffice-training@zenika.com 
+* [ ] Accès ko ? session pas là ? email stagiaire ko ? problème d'irritation du fessier ? contact direct xxx-xxx@xxx.com 
 
 Plus d'astuces sur l'émargement link:#[ici]
 
 ### Evals stagiaires + formateurs en fin formation
 
-* [ ] SYSTEMATIQUE ! (ouais pareil, link:https://zeval.zenika.com/[c'est ici])
-* [ ] le code se génére/récupére dans votre session de formation dans link:https://platon.zenika.com/[Platon]
+* [ ] SYSTEMATIQUE ! (ouais pareil, link:https://xxx.xxx.com/[c'est ici])
+* [ ] le code se génére/récupére dans votre session de formation dans link:https://xxx.xxx.com/[Platon]
 
 image::platon_idZeval.png[]
 
@@ -75,7 +75,7 @@ image::platon_idZeval.png[]
 
 ## Cas spécifique pour le client Orange
 
-Le client Orange nous demande de leur remonter les emails de leurs collaborateurs qui ont des problèmes lors des Webinar et/ou Formation. Donc merci de remonter à training@zenika.com les problèmes rencontrés et les emails des collaborateurs Orange.
+Le client Orange nous demande de leur remonter les emails de leurs collaborateurs qui ont des problèmes lors des Webinar et/ou Formation. Donc merci de remonter à xxx@xxx.com les problèmes rencontrés et les emails des collaborateurs Orange.
 
 ⚠️ Orange utilise en interne un outil appelé Coop'Net qui permet de faire de la visio
 
