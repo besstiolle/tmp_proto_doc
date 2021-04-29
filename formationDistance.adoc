@@ -64,7 +64,7 @@ Plus d'astuces sur l'émargement link:#[ici]
 * [ ] SYSTEMATIQUE ! (ouais pareil, link:https://xxx.xxx.com/[c'est ici])
 * [ ] le code se génére/récupére dans votre session de formation dans link:https://xxx.xxx.com/[Platon]
 
-image::platon_idZeval.png[]
+image::platon_idZeval.png[] 
 
 
 
